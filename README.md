@@ -1,18 +1,15 @@
 ## Hi there 👋
-
-aboutMe = {
-    Name      : "R Naresh",
-    
-    Interests :["Programming", "Machine Learning", "Filmmaking", "Art and Music", "Content Creator],
-    Languages :["Python","JAVA","HTML","MySQL"],
-}
-
 <!--
 **NareshSpeaks/NareshSpeaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- aboutMe = {
+    Name      : "R Naresh",
+    Interests :["Programming", "Machine Learning", "Filmmaking", "Art and Music", "Content Creator],
+    Languages :["Python","JAVA","HTML","MySQL"],
+}
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
